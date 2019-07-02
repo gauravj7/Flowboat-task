@@ -1,0 +1,28 @@
+body{
+  background: #43C6AC;
+background: -webkit-linear-gradient(to right, #191654, #43C6AC);
+background: linear-gradient(to right, #191654, #43C6AC);
+}
+
+.container {
+  margin-top: 50px;
+}
+
+table {
+  opacity: 0.8;
+}
+
+.button{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.button button {
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+}
